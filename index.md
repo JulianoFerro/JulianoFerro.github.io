@@ -16,6 +16,9 @@ Link em breve
 ### Node Shop
 Link em breve
 
+### Admin Laravel
+Link em breve
+
 ### Javascript Validation Form Example
 Link em breve
 
